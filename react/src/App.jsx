@@ -16,31 +16,30 @@ import BelowAndAboveAvg from "./components/Assignments/BelowAndAboveAvg";
       name: "Mobile",
       price: 60000,
       status: true,
-      image: "/public/images/products/camera.jfif",
+     
     },
     {
       name: "LED",
       price: 50000,
       status: true,
-      image: "/public/images/products/camera.jfif",
+     
     },
     {
       name: "Bike",
       price: 40000,
       status: false,
-      image: "images/products/camera.jfif",
+    
     },
     {
       name: "Car",
       price: 70000,
       status: true,
-      image: "images/products/camera.jfif",
-    },
+     },
     {
       name: "Laptop",
       price: 30000,
       status: false,
-      image: "images/products/camera.jfif",
+
     },
   ];
 
